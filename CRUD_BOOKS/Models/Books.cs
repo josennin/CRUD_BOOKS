@@ -22,7 +22,7 @@ namespace CRUD_BOOKS.Models
         [Display(Name = "Autor del libro")]
         public string author { get; set; }
         [Display(Name = "Fecha de lanzamiento")]
-        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "0:MM/dd/yyyy")]
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:MM/dd/yyyy}")]
         [DataType(DataType.DateTime)]
         public System.DateTime date { get; set; }
     }

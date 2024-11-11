@@ -3,11 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|c:\\users\\usuario\\source\\repos\\crud_books\\crud_books\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|solutionrelative:crud_books\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|c:\\users\\usuario\\source\\repos\\crud_books\\crud_books\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|solutionrelative:crud_books\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|c:\\users\\usuario\\source\\repos\\crud_books\\crud_books\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|solutionrelative:crud_books\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|c:\\users\\usuario\\source\\repos\\crud_books\\crud_books\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|solutionrelative:crud_books\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|c:\\users\\usuario\\source\\repos\\crud_books\\crud_books\\models\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|c:\\users\\usuario\\source\\repos\\crud_books\\crud_books\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|solutionrelative:crud_books\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|c:\\users\\usuario\\source\\repos\\crud_books\\crud_books\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|solutionrelative:crud_books\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|c:\\users\\usuario\\source\\repos\\crud_books\\crud_books\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|solutionrelative:crud_books\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\crud_books\\models\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{F6843639-3766-4401-AFFE-EB36FCC59FD5}|CRUD_BOOKS\\CRUD_BOOKS.csproj|solutionrelative:crud_books\\models\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -18,36 +42,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD_BOOKS\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "CRUD_BOOKS\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T23:46:38.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD_BOOKS\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "CRUD_BOOKS\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T23:45:48.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUD_BOOKS\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "CRUD_BOOKS\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T23:45:19.927Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD_BOOKS\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "CRUD_BOOKS\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T23:39:59.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "CRUD_BOOKS\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Controllers\\BookController.cs",
+              "RelativeToolTip": "CRUD_BOOKS\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAD4v1sAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:11:07.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Books.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Models\\Books.cs",
               "RelativeDocumentMoniker": "CRUD_BOOKS\\Models\\Books.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Models\\Books.cs",
               "RelativeToolTip": "CRUD_BOOKS\\Models\\Books.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBgAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T21:58:45.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD_BOOKS\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "CRUD_BOOKS\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T23:46:56.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DbModel.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Models\\DbModel.edmx",
               "RelativeDocumentMoniker": "CRUD_BOOKS\\Models\\DbModel.edmx",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_BOOKS\\CRUD_BOOKS\\Models\\DbModel.edmx [Diagram1]",
               "RelativeToolTip": "CRUD_BOOKS\\Models\\DbModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-11-11T21:55:43.675Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-11-11T21:55:43.675Z"
             }
           ]
         }
